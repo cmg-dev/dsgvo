@@ -1,14 +1,14 @@
 {
   "name": "dsgvo",
-  "version": "1.0.0",
-  "description": "This Package severes German Developers for Easy Introduction of the Datenschutzgrundverordnung.",
+  "version": "1.1.0",
+  "description": "This Package Serves German Developers for Easy Introduction of the Datenschutzgrundverordnung.",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cmg_dev/dsgvo.git"
+    "url": "git+ssh://git@github.com/cmg-dev/dsgvo.git"
   },
   "keywords": [
     "Fun"
