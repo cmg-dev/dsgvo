@@ -1,0 +1,22 @@
+{
+  "name": "dsgvo",
+  "version": "1.0.0",
+  "description": "This Package severes German Developers for Easy Introduction of the Datenschutzgrundverordnung.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cmg_dev/dsgvo.git"
+  },
+  "keywords": [
+    "Fun"
+  ],
+  "author": "Christoph Gnip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmg_dev/dsgvo/issues"
+  },
+  "homepage": "https://github.com/cmg_dev/dsgvo#readme"
+}
